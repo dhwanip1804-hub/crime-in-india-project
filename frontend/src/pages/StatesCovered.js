@@ -55,7 +55,7 @@ useEffect(() => {
     setSelectedDistrict(firstDistrict);
   }
 
-}, [data, states, selectedState]);
+}, [data, selectedState]);
 
     if (!data) {
   return (
