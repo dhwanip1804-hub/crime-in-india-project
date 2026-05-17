@@ -1,0 +1,58 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 25px 50px;
+
+  z-index: 1000;
+
+  font-family: 'Poppins', sans-serif;
+
+  background: transparent;
+}
+
+/* Logo */
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+/* Nav */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+/* Links */
+.nav-links a,
+.nav-links li {
+  color: white;
+  text-decoration: none;
+
+  font-size: 16px;
+  font-weight: 400;
+
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+/* Hover */
+.nav-links a:hover,
+.nav-links li:hover {
+  color: red;
+}
+
+/* Active */
+.nav-links a.active {
+  color: red;
+  font-weight: 600;
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "crime": "Other Ipc Crimes",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 19605658,
+    "top_state": "Madhya Pradesh",
+    "insight": "Other Ipc Crimes recorded 19,605,658 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Theft",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 7001060,
+    "top_state": "Maharashtra",
+    "insight": "Theft recorded 7,001,060 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Hurt/Grevious Hurt",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 6743752,
+    "top_state": "Andhra Pradesh",
+    "insight": "Hurt/Grevious Hurt recorded 6,743,752 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Other Theft",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 4460320,
+    "top_state": "Maharashtra",
+    "insight": "Other Theft recorded 4,460,320 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Auto Theft",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 2540740,
+    "top_state": "Maharashtra",
+    "insight": "Auto Theft recorded 2,540,740 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Burglary",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 2234678,
+    "top_state": "Maharashtra",
+    "insight": "Burglary recorded 2,234,678 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Causing Death By Negligence",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 2003728,
+    "top_state": "Tamil Nadu",
+    "insight": "Causing Death By Negligence recorded 2,003,728 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Cruelty By Husband Or His Relatives",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 1750402,
+    "top_state": "West Bengal",
+    "insight": "Cruelty By Husband Or His Relatives recorded 1,750,402 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Riots",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 1549854,
+    "top_state": "Bihar",
+    "insight": "Riots recorded 1,549,854 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Cheating",
+    "type": "IPC Crime",
+    "severity": "Critical Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 1535194,
+    "top_state": "Rajasthan",
+    "insight": "Cheating recorded 1,535,194 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Assault On Women With Intent To Outrage Her Modesty",
+    "type": "IPC Crime",
+    "severity": "High Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 906310,
+    "top_state": "Madhya Pradesh",
+    "insight": "Assault On Women With Intent To Outrage Her Modesty recorded 906,310 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Murder",
+    "type": "IPC Crime",
+    "severity": "High Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 805086,
+    "top_state": "Uttar Pradesh",
+    "insight": "Murder recorded 805,086 reported cases across the NCRB district dataset.",
+    "related": [
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder",
+      "Rape"
+    ]
+  },
+  {
+    "crime": "Kidnapping & Abduction",
+    "type": "IPC Crime",
+    "severity": "High Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 713714,
+    "top_state": "Uttar Pradesh",
+    "insight": "Kidnapping & Abduction recorded 713,714 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  },
+  {
+    "crime": "Attempt To Murder",
+    "type": "IPC Crime",
+    "severity": "High Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 703954,
+    "top_state": "Uttar Pradesh",
+    "insight": "Attempt To Murder recorded 703,954 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Culpable Homicide Not Amounting To Murder",
+      "Rape"
+    ]
+  },
+  {
+    "crime": "Kidnapping And Abduction Of Women And Girls",
+    "type": "IPC Crime",
+    "severity": "High Severity",
+    "states": "35 States",
+    "years": "2001 - 2012",
+    "total_cases": 527814,
+    "top_state": "Uttar Pradesh",
+    "insight": "Kidnapping And Abduction Of Women And Girls recorded 527,814 reported cases across the NCRB district dataset.",
+    "related": [
+      "Murder",
+      "Attempt To Murder",
+      "Culpable Homicide Not Amounting To Murder"
+    ]
+  }
+]

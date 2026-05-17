@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "IPC Crimes 2001-2012",
+    "type": "CSV",
+    "file": "/uploads/csv/01_District_wise_crimes_committed_IPC_2001_2012.csv",
+    "description": "District-wise IPC crime records covering national crime activity between 2001 and 2012.",
+    "category": "Crime Records"
+  },
+  {
+    "id": 2,
+    "title": "Crimes Against Women",
+    "type": "CSV",
+    "file": "/uploads/csv/42_District_wise_crimes_committed_against_women_2001_2012.csv",
+    "description": "District-level crimes committed against women across Indian states and regions.",
+    "category": "Women Safety"
+  },
+  {
+    "id": 3,
+    "title": "Crimes Against Children",
+    "type": "CSV",
+    "file": "/uploads/csv/03_District_wise_crimes_committed_against_children_2001_2012.csv",
+    "description": "Crime intelligence records involving children-related offenses between 2001 and 2012.",
+    "category": "Child Safety"
+  },
+  {
+    "id": 4,
+    "title": "Crime By Place Of Occurrence",
+    "type": "CSV",
+    "file": "/uploads/csv/17_Crime_by_place_of_occurrence_2001_2012.csv",
+    "description": "Categorized crime occurrence locations including residential, commercial and public zones.",
+    "category": "Occurrence Analysis"
+  },
+  {
+    "id": 5,
+    "title": "Human Rights Violation By Police",
+    "type": "CSV",
+    "file": "/uploads/csv/35_Human_rights_violation_by_police_2001_2010.csv",
+    "description": "Recorded human rights violation incidents involving police departments.",
+    "category": "Human Rights"
+  }
+]

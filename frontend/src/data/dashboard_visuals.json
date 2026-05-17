@@ -1,0 +1,1348 @@
+{
+  "yearly_crime": [
+    {
+      "YEAR": 2001,
+      "TOTAL IPC CRIMES": 3538616
+    },
+    {
+      "YEAR": 2002,
+      "TOTAL IPC CRIMES": 3560660
+    },
+    {
+      "YEAR": 2003,
+      "TOTAL IPC CRIMES": 3432240
+    },
+    {
+      "YEAR": 2004,
+      "TOTAL IPC CRIMES": 3664020
+    },
+    {
+      "YEAR": 2005,
+      "TOTAL IPC CRIMES": 3645204
+    },
+    {
+      "YEAR": 2006,
+      "TOTAL IPC CRIMES": 3756586
+    },
+    {
+      "YEAR": 2007,
+      "TOTAL IPC CRIMES": 3979346
+    },
+    {
+      "YEAR": 2008,
+      "TOTAL IPC CRIMES": 4186758
+    },
+    {
+      "YEAR": 2009,
+      "TOTAL IPC CRIMES": 4242690
+    },
+    {
+      "YEAR": 2010,
+      "TOTAL IPC CRIMES": 4449662
+    },
+    {
+      "YEAR": 2011,
+      "TOTAL IPC CRIMES": 4651150
+    },
+    {
+      "YEAR": 2012,
+      "TOTAL IPC CRIMES": 4774376
+    }
+  ],
+  "state_crime": [
+    {
+      "STATE/UT": "MADHYA PRADESH",
+      "TOTAL IPC CRIMES": 4827540
+    },
+    {
+      "STATE/UT": "MAHARASHTRA",
+      "TOTAL IPC CRIMES": 4546872
+    },
+    {
+      "STATE/UT": "TAMIL NADU",
+      "TOTAL IPC CRIMES": 4120352
+    },
+    {
+      "STATE/UT": "ANDHRA PRADESH",
+      "TOTAL IPC CRIMES": 4037962
+    },
+    {
+      "STATE/UT": "UTTAR PRADESH",
+      "TOTAL IPC CRIMES": 3716148
+    },
+    {
+      "STATE/UT": "RAJASTHAN",
+      "TOTAL IPC CRIMES": 3711832
+    },
+    {
+      "STATE/UT": "KARNATAKA",
+      "TOTAL IPC CRIMES": 2962126
+    },
+    {
+      "STATE/UT": "KERALA",
+      "TOTAL IPC CRIMES": 2874918
+    },
+    {
+      "STATE/UT": "GUJARAT",
+      "TOTAL IPC CRIMES": 2771550
+    },
+    {
+      "STATE/UT": "BIHAR",
+      "TOTAL IPC CRIMES": 2692586
+    },
+    {
+      "STATE/UT": "WEST BENGAL",
+      "TOTAL IPC CRIMES": 2238608
+    },
+    {
+      "STATE/UT": "ODISHA",
+      "TOTAL IPC CRIMES": 1295892
+    }
+  ],
+  "scatter_data": [
+    {
+      "MURDER": 101,
+      "THEFT": 199
+    },
+    {
+      "MURDER": 151,
+      "THEFT": 366
+    },
+    {
+      "MURDER": 101,
+      "THEFT": 723
+    },
+    {
+      "MURDER": 80,
+      "THEFT": 173
+    },
+    {
+      "MURDER": 82,
+      "THEFT": 1021
+    },
+    {
+      "MURDER": 3,
+      "THEFT": 162
+    },
+    {
+      "MURDER": 182,
+      "THEFT": 1122
+    },
+    {
+      "MURDER": 111,
+      "THEFT": 2792
+    },
+    {
+      "MURDER": 162,
+      "THEFT": 392
+    },
+    {
+      "MURDER": 93,
+      "THEFT": 368
+    },
+    {
+      "MURDER": 65,
+      "THEFT": 478
+    },
+    {
+      "MURDER": 133,
+      "THEFT": 297
+    },
+    {
+      "MURDER": 157,
+      "THEFT": 316
+    },
+    {
+      "MURDER": 101,
+      "THEFT": 286
+    },
+    {
+      "MURDER": 122,
+      "THEFT": 318
+    },
+    {
+      "MURDER": 89,
+      "THEFT": 608
+    },
+    {
+      "MURDER": 106,
+      "THEFT": 234
+    },
+    {
+      "MURDER": 102,
+      "THEFT": 278
+    },
+    {
+      "MURDER": 214,
+      "THEFT": 1296
+    },
+    {
+      "MURDER": 6,
+      "THEFT": 296
+    },
+    {
+      "MURDER": 38,
+      "THEFT": 231
+    },
+    {
+      "MURDER": 53,
+      "THEFT": 2057
+    },
+    {
+      "MURDER": 2,
+      "THEFT": 265
+    },
+    {
+      "MURDER": 58,
+      "THEFT": 165
+    },
+    {
+      "MURDER": 22,
+      "THEFT": 630
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 144
+    },
+    {
+      "MURDER": 158,
+      "THEFT": 418
+    },
+    {
+      "MURDER": 77,
+      "THEFT": 1116
+    },
+    {
+      "MURDER": 2602,
+      "THEFT": 16751
+    },
+    {
+      "MURDER": 11,
+      "THEFT": 24
+    },
+    {
+      "MURDER": 3,
+      "THEFT": 19
+    },
+    {
+      "MURDER": 3,
+      "THEFT": 26
+    },
+    {
+      "MURDER": 4,
+      "THEFT": 26
+    },
+    {
+      "MURDER": 16,
+      "THEFT": 31
+    },
+    {
+      "MURDER": 11,
+      "THEFT": 109
+    },
+    {
+      "MURDER": 7,
+      "THEFT": 52
+    },
+    {
+      "MURDER": 1,
+      "THEFT": 9
+    },
+    {
+      "MURDER": 5,
+      "THEFT": 72
+    },
+    {
+      "MURDER": 8,
+      "THEFT": 25
+    },
+    {
+      "MURDER": 4,
+      "THEFT": 20
+    },
+    {
+      "MURDER": 2,
+      "THEFT": 13
+    },
+    {
+      "MURDER": 8,
+      "THEFT": 17
+    },
+    {
+      "MURDER": 83,
+      "THEFT": 443
+    },
+    {
+      "MURDER": 64,
+      "THEFT": 187
+    },
+    {
+      "MURDER": 45,
+      "THEFT": 92
+    },
+    {
+      "MURDER": 0,
+      "THEFT": 1
+    },
+    {
+      "MURDER": 52,
+      "THEFT": 359
+    },
+    {
+      "MURDER": 61,
+      "THEFT": 185
+    },
+    {
+      "MURDER": 15,
+      "THEFT": 79
+    },
+    {
+      "MURDER": 65,
+      "THEFT": 83
+    },
+    {
+      "MURDER": 110,
+      "THEFT": 325
+    },
+    {
+      "MURDER": 13,
+      "THEFT": 135
+    },
+    {
+      "MURDER": 28,
+      "THEFT": 116
+    },
+    {
+      "MURDER": 53,
+      "THEFT": 211
+    },
+    {
+      "MURDER": 71,
+      "THEFT": 736
+    },
+    {
+      "MURDER": 18,
+      "THEFT": 92
+    },
+    {
+      "MURDER": 40,
+      "THEFT": 230
+    },
+    {
+      "MURDER": 37,
+      "THEFT": 275
+    },
+    {
+      "MURDER": 65,
+      "THEFT": 79
+    },
+    {
+      "MURDER": 32,
+      "THEFT": 114
+    },
+    {
+      "MURDER": 87,
+      "THEFT": 89
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 195
+    },
+    {
+      "MURDER": 20,
+      "THEFT": 66
+    },
+    {
+      "MURDER": 17,
+      "THEFT": 30
+    },
+    {
+      "MURDER": 95,
+      "THEFT": 491
+    },
+    {
+      "MURDER": 79,
+      "THEFT": 119
+    },
+    {
+      "MURDER": 11,
+      "THEFT": 29
+    },
+    {
+      "MURDER": 59,
+      "THEFT": 343
+    },
+    {
+      "MURDER": 86,
+      "THEFT": 356
+    },
+    {
+      "MURDER": 107,
+      "THEFT": 350
+    },
+    {
+      "MURDER": 1356,
+      "THEFT": 5367
+    },
+    {
+      "MURDER": 47,
+      "THEFT": 161
+    },
+    {
+      "MURDER": 37,
+      "THEFT": 24
+    },
+    {
+      "MURDER": 74,
+      "THEFT": 103
+    },
+    {
+      "MURDER": 34,
+      "THEFT": 115
+    },
+    {
+      "MURDER": 93,
+      "THEFT": 73
+    },
+    {
+      "MURDER": 124,
+      "THEFT": 265
+    },
+    {
+      "MURDER": 66,
+      "THEFT": 265
+    },
+    {
+      "MURDER": 41,
+      "THEFT": 184
+    },
+    {
+      "MURDER": 128,
+      "THEFT": 370
+    },
+    {
+      "MURDER": 135,
+      "THEFT": 214
+    },
+    {
+      "MURDER": 56,
+      "THEFT": 179
+    },
+    {
+      "MURDER": 53,
+      "THEFT": 103
+    },
+    {
+      "MURDER": 200,
+      "THEFT": 416
+    },
+    {
+      "MURDER": 107,
+      "THEFT": 153
+    },
+    {
+      "MURDER": 7,
+      "THEFT": 117
+    },
+    {
+      "MURDER": 67,
+      "THEFT": 81
+    },
+    {
+      "MURDER": 73,
+      "THEFT": 121
+    },
+    {
+      "MURDER": 60,
+      "THEFT": 146
+    },
+    {
+      "MURDER": 7,
+      "THEFT": 221
+    },
+    {
+      "MURDER": 72,
+      "THEFT": 86
+    },
+    {
+      "MURDER": 25,
+      "THEFT": 57
+    },
+    {
+      "MURDER": 61,
+      "THEFT": 79
+    },
+    {
+      "MURDER": 56,
+      "THEFT": 69
+    },
+    {
+      "MURDER": 35,
+      "THEFT": 98
+    },
+    {
+      "MURDER": 114,
+      "THEFT": 271
+    },
+    {
+      "MURDER": 51,
+      "THEFT": 157
+    },
+    {
+      "MURDER": 153,
+      "THEFT": 538
+    },
+    {
+      "MURDER": 13,
+      "THEFT": 313
+    },
+    {
+      "MURDER": 208,
+      "THEFT": 412
+    },
+    {
+      "MURDER": 36,
+      "THEFT": 32
+    },
+    {
+      "MURDER": 77,
+      "THEFT": 66
+    },
+    {
+      "MURDER": 434,
+      "THEFT": 1568
+    },
+    {
+      "MURDER": 24,
+      "THEFT": 811
+    },
+    {
+      "MURDER": 104,
+      "THEFT": 227
+    },
+    {
+      "MURDER": 127,
+      "THEFT": 317
+    },
+    {
+      "MURDER": 36,
+      "THEFT": 56
+    },
+    {
+      "MURDER": 107,
+      "THEFT": 247
+    },
+    {
+      "MURDER": 137,
+      "THEFT": 246
+    },
+    {
+      "MURDER": 28,
+      "THEFT": 89
+    },
+    {
+      "MURDER": 18,
+      "THEFT": 16
+    },
+    {
+      "MURDER": 51,
+      "THEFT": 132
+    },
+    {
+      "MURDER": 116,
+      "THEFT": 112
+    },
+    {
+      "MURDER": 41,
+      "THEFT": 129
+    },
+    {
+      "MURDER": 110,
+      "THEFT": 262
+    },
+    {
+      "MURDER": 3643,
+      "THEFT": 9701
+    },
+    {
+      "MURDER": 13,
+      "THEFT": 21
+    },
+    {
+      "MURDER": 99,
+      "THEFT": 690
+    },
+    {
+      "MURDER": 9,
+      "THEFT": 3
+    },
+    {
+      "MURDER": 83,
+      "THEFT": 64
+    },
+    {
+      "MURDER": 14,
+      "THEFT": 110
+    },
+    {
+      "MURDER": 76,
+      "THEFT": 893
+    },
+    {
+      "MURDER": 2,
+      "THEFT": 197
+    },
+    {
+      "MURDER": 80,
+      "THEFT": 172
+    },
+    {
+      "MURDER": 48,
+      "THEFT": 237
+    },
+    {
+      "MURDER": 37,
+      "THEFT": 54
+    },
+    {
+      "MURDER": 31,
+      "THEFT": 53
+    },
+    {
+      "MURDER": 19,
+      "THEFT": 43
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 305
+    },
+    {
+      "MURDER": 35,
+      "THEFT": 153
+    },
+    {
+      "MURDER": 18,
+      "THEFT": 146
+    },
+    {
+      "MURDER": 50,
+      "THEFT": 173
+    },
+    {
+      "MURDER": 92,
+      "THEFT": 953
+    },
+    {
+      "MURDER": 36,
+      "THEFT": 231
+    },
+    {
+      "MURDER": 105,
+      "THEFT": 314
+    },
+    {
+      "MURDER": 880,
+      "THEFT": 4812
+    },
+    {
+      "MURDER": 22,
+      "THEFT": 291
+    },
+    {
+      "MURDER": 14,
+      "THEFT": 285
+    },
+    {
+      "MURDER": 36,
+      "THEFT": 576
+    },
+    {
+      "MURDER": 90,
+      "THEFT": 3588
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 225
+    },
+    {
+      "MURDER": 6,
+      "THEFT": 8
+    },
+    {
+      "MURDER": 41,
+      "THEFT": 199
+    },
+    {
+      "MURDER": 28,
+      "THEFT": 427
+    },
+    {
+      "MURDER": 37,
+      "THEFT": 388
+    },
+    {
+      "MURDER": 64,
+      "THEFT": 561
+    },
+    {
+      "MURDER": 36,
+      "THEFT": 120
+    },
+    {
+      "MURDER": 25,
+      "THEFT": 585
+    },
+    {
+      "MURDER": 55,
+      "THEFT": 191
+    },
+    {
+      "MURDER": 48,
+      "THEFT": 530
+    },
+    {
+      "MURDER": 56,
+      "THEFT": 547
+    },
+    {
+      "MURDER": 42,
+      "THEFT": 358
+    },
+    {
+      "MURDER": 34,
+      "THEFT": 307
+    },
+    {
+      "MURDER": 28,
+      "THEFT": 557
+    },
+    {
+      "MURDER": 16,
+      "THEFT": 46
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 120
+    },
+    {
+      "MURDER": 52,
+      "THEFT": 420
+    },
+    {
+      "MURDER": 56,
+      "THEFT": 313
+    },
+    {
+      "MURDER": 24,
+      "THEFT": 220
+    },
+    {
+      "MURDER": 15,
+      "THEFT": 116
+    },
+    {
+      "MURDER": 29,
+      "THEFT": 1245
+    },
+    {
+      "MURDER": 30,
+      "THEFT": 378
+    },
+    {
+      "MURDER": 98,
+      "THEFT": 1422
+    },
+    {
+      "MURDER": 62,
+      "THEFT": 219
+    },
+    {
+      "MURDER": 38,
+      "THEFT": 204
+    },
+    {
+      "MURDER": 34,
+      "THEFT": 997
+    },
+    {
+      "MURDER": 71,
+      "THEFT": 210
+    },
+    {
+      "MURDER": 44,
+      "THEFT": 432
+    },
+    {
+      "MURDER": 15,
+      "THEFT": 901
+    },
+    {
+      "MURDER": 1226,
+      "THEFT": 15834
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 365
+    },
+    {
+      "MURDER": 40,
+      "THEFT": 190
+    },
+    {
+      "MURDER": 68,
+      "THEFT": 668
+    },
+    {
+      "MURDER": 18,
+      "THEFT": 141
+    },
+    {
+      "MURDER": 24,
+      "THEFT": 169
+    },
+    {
+      "MURDER": 69,
+      "THEFT": 794
+    },
+    {
+      "MURDER": 45,
+      "THEFT": 438
+    },
+    {
+      "MURDER": 48,
+      "THEFT": 183
+    },
+    {
+      "MURDER": 37,
+      "THEFT": 148
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 144
+    },
+    {
+      "MURDER": 42,
+      "THEFT": 468
+    },
+    {
+      "MURDER": 20,
+      "THEFT": 343
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 116
+    },
+    {
+      "MURDER": 12,
+      "THEFT": 226
+    },
+    {
+      "MURDER": 43,
+      "THEFT": 415
+    },
+    {
+      "MURDER": 21,
+      "THEFT": 155
+    },
+    {
+      "MURDER": 57,
+      "THEFT": 365
+    },
+    {
+      "MURDER": 37,
+      "THEFT": 240
+    },
+    {
+      "MURDER": 73,
+      "THEFT": 347
+    },
+    {
+      "MURDER": 42,
+      "THEFT": 202
+    },
+    {
+      "MURDER": 781,
+      "THEFT": 6117
+    },
+    {
+      "MURDER": 8,
+      "THEFT": 49
+    },
+    {
+      "MURDER": 13,
+      "THEFT": 29
+    },
+    {
+      "MURDER": 1,
+      "THEFT": 1
+    },
+    {
+      "MURDER": 2,
+      "THEFT": 17
+    },
+    {
+      "MURDER": 24,
+      "THEFT": 108
+    },
+    {
+      "MURDER": 5,
+      "THEFT": 2
+    },
+    {
+      "MURDER": 13,
+      "THEFT": 17
+    },
+    {
+      "MURDER": 1,
+      "THEFT": 1
+    },
+    {
+      "MURDER": 18,
+      "THEFT": 64
+    },
+    {
+      "MURDER": 14,
+      "THEFT": 188
+    },
+    {
+      "MURDER": 3,
+      "THEFT": 27
+    },
+    {
+      "MURDER": 11,
+      "THEFT": 59
+    },
+    {
+      "MURDER": 6,
+      "THEFT": 38
+    },
+    {
+      "MURDER": 119,
+      "THEFT": 600
+    },
+    {
+      "MURDER": 74,
+      "THEFT": 83
+    },
+    {
+      "MURDER": 25,
+      "THEFT": 19
+    },
+    {
+      "MURDER": 144,
+      "THEFT": 156
+    },
+    {
+      "MURDER": 6,
+      "THEFT": 19
+    },
+    {
+      "MURDER": 78,
+      "THEFT": 94
+    },
+    {
+      "MURDER": 0,
+      "THEFT": 0
+    },
+    {
+      "MURDER": 0,
+      "THEFT": 0
+    },
+    {
+      "MURDER": 104,
+      "THEFT": 18
+    },
+    {
+      "MURDER": 24,
+      "THEFT": 44
+    },
+    {
+      "MURDER": 27,
+      "THEFT": 479
+    },
+    {
+      "MURDER": 0,
+      "THEFT": 6
+    },
+    {
+      "MURDER": 16,
+      "THEFT": 37
+    },
+    {
+      "MURDER": 39,
+      "THEFT": 43
+    },
+    {
+      "MURDER": 141,
+      "THEFT": 39
+    },
+    {
+      "MURDER": 3,
+      "THEFT": 6
+    },
+    {
+      "MURDER": 100,
+      "THEFT": 67
+    },
+    {
+      "MURDER": 46,
+      "THEFT": 144
+    },
+    {
+      "MURDER": 1,
+      "THEFT": 3
+    },
+    {
+      "MURDER": 76,
+      "THEFT": 21
+    },
+    {
+      "MURDER": 51,
+      "THEFT": 12
+    },
+    {
+      "MURDER": 36,
+      "THEFT": 22
+    },
+    {
+      "MURDER": 63,
+      "THEFT": 490
+    },
+    {
+      "MURDER": 21,
+      "THEFT": 117
+    },
+    {
+      "MURDER": 1075,
+      "THEFT": 1919
+    },
+    {
+      "MURDER": 70,
+      "THEFT": 435
+    },
+    {
+      "MURDER": 109,
+      "THEFT": 99
+    },
+    {
+      "MURDER": 40,
+      "THEFT": 80
+    },
+    {
+      "MURDER": 47,
+      "THEFT": 129
+    },
+    {
+      "MURDER": 97,
+      "THEFT": 546
+    },
+    {
+      "MURDER": 11,
+      "THEFT": 209
+    },
+    {
+      "MURDER": 63,
+      "THEFT": 66
+    },
+    {
+      "MURDER": 32,
+      "THEFT": 54
+    },
+    {
+      "MURDER": 63,
+      "THEFT": 111
+    },
+    {
+      "MURDER": 61,
+      "THEFT": 70
+    },
+    {
+      "MURDER": 136,
+      "THEFT": 56
+    },
+    {
+      "MURDER": 76,
+      "THEFT": 348
+    },
+    {
+      "MURDER": 81,
+      "THEFT": 343
+    },
+    {
+      "MURDER": 4,
+      "THEFT": 65
+    },
+    {
+      "MURDER": 22,
+      "THEFT": 68
+    },
+    {
+      "MURDER": 21,
+      "THEFT": 77
+    },
+    {
+      "MURDER": 54,
+      "THEFT": 48
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 28
+    },
+    {
+      "MURDER": 31,
+      "THEFT": 37
+    },
+    {
+      "MURDER": 73,
+      "THEFT": 94
+    },
+    {
+      "MURDER": 243,
+      "THEFT": 647
+    },
+    {
+      "MURDER": 47,
+      "THEFT": 80
+    },
+    {
+      "MURDER": 44,
+      "THEFT": 123
+    },
+    {
+      "MURDER": 49,
+      "THEFT": 14
+    },
+    {
+      "MURDER": 1507,
+      "THEFT": 3827
+    },
+    {
+      "MURDER": 59,
+      "THEFT": 105
+    },
+    {
+      "MURDER": 221,
+      "THEFT": 6293
+    },
+    {
+      "MURDER": 137,
+      "THEFT": 533
+    },
+    {
+      "MURDER": 120,
+      "THEFT": 386
+    },
+    {
+      "MURDER": 58,
+      "THEFT": 303
+    },
+    {
+      "MURDER": 48,
+      "THEFT": 202
+    },
+    {
+      "MURDER": 51,
+      "THEFT": 202
+    },
+    {
+      "MURDER": 19,
+      "THEFT": 133
+    },
+    {
+      "MURDER": 41,
+      "THEFT": 222
+    },
+    {
+      "MURDER": 31,
+      "THEFT": 145
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 219
+    },
+    {
+      "MURDER": 58,
+      "THEFT": 332
+    },
+    {
+      "MURDER": 16,
+      "THEFT": 245
+    },
+    {
+      "MURDER": 25,
+      "THEFT": 38
+    },
+    {
+      "MURDER": 22,
+      "THEFT": 55
+    },
+    {
+      "MURDER": 95,
+      "THEFT": 268
+    },
+    {
+      "MURDER": 64,
+      "THEFT": 268
+    },
+    {
+      "MURDER": 24,
+      "THEFT": 111
+    },
+    {
+      "MURDER": 20,
+      "THEFT": 108
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 87
+    },
+    {
+      "MURDER": 69,
+      "THEFT": 284
+    },
+    {
+      "MURDER": 23,
+      "THEFT": 120
+    },
+    {
+      "MURDER": 67,
+      "THEFT": 328
+    },
+    {
+      "MURDER": 32,
+      "THEFT": 326
+    },
+    {
+      "MURDER": 53,
+      "THEFT": 200
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 150
+    },
+    {
+      "MURDER": 12,
+      "THEFT": 331
+    },
+    {
+      "MURDER": 56,
+      "THEFT": 292
+    },
+    {
+      "MURDER": 80,
+      "THEFT": 389
+    },
+    {
+      "MURDER": 16,
+      "THEFT": 112
+    },
+    {
+      "MURDER": 17,
+      "THEFT": 81
+    },
+    {
+      "MURDER": 1626,
+      "THEFT": 12868
+    },
+    {
+      "MURDER": 22,
+      "THEFT": 195
+    },
+    {
+      "MURDER": 22,
+      "THEFT": 5
+    },
+    {
+      "MURDER": 44,
+      "THEFT": 1264
+    },
+    {
+      "MURDER": 33,
+      "THEFT": 254
+    },
+    {
+      "MURDER": 26,
+      "THEFT": 213
+    },
+    {
+      "MURDER": 18,
+      "THEFT": 145
+    },
+    {
+      "MURDER": 41,
+      "THEFT": 291
+    },
+    {
+      "MURDER": 34,
+      "THEFT": 373
+    },
+    {
+      "MURDER": 34,
+      "THEFT": 428
+    },
+    {
+      "MURDER": 23,
+      "THEFT": 340
+    },
+    {
+      "MURDER": 45,
+      "THEFT": 315
+    },
+    {
+      "MURDER": 20,
+      "THEFT": 129
+    },
+    {
+      "MURDER": 0,
+      "THEFT": 197
+    },
+    {
+      "MURDER": 42,
+      "THEFT": 516
+    }
+  ],
+  "crime_totals": [
+    {
+      "crime": "Murder",
+      "value": 805086
+    },
+    {
+      "crime": "Rape",
+      "value": 478274
+    },
+    {
+      "crime": "Theft",
+      "value": 7001060
+    },
+    {
+      "crime": "Riots",
+      "value": 1549854
+    }
+  ],
+  "safety_data": [
+    {
+      "name": "Low",
+      "value": 32,
+      "fill": "#14532d"
+    },
+    {
+      "name": "Medium",
+      "value": 46,
+      "fill": "#78350f"
+    },
+    {
+      "name": "High",
+      "value": 22,
+      "fill": "#7f1d1d"
+    }
+  ],
+  "downloads": [
+  { "day": "Mon", "downloads": 120 },
+  { "day": "Tue", "downloads": 210 },
+  { "day": "Wed", "downloads": 340 },
+  { "day": "Thu", "downloads": 280 },
+  { "day": "Fri", "downloads": 410 },
+  { "day": "Sat", "downloads": 520 },
+  { "day": "Sun", "downloads": 390 }
+]
+}

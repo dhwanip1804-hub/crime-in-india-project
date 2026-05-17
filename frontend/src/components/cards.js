@@ -1,0 +1,10 @@
+const Card = ({ title, value }) => {
+  return (
+    <div className="bg-white shadow rounded-xl p-4">
+      <h3 className="text-gray-500 text-sm">{title}</h3>
+      <p className="text-2xl font-bold">{value}</p>
+    </div>
+  );
+};
+
+export default Card;
